@@ -73,9 +73,8 @@
 <li>저작권 정보 표시</li>
 
 ---
-### [🔍배포용링크(수정)](https://olympick-medal-tracker.vercel.app)
-![스크린샷 2024-11-12 오후 2 49 18](https://github.com/user-attachments/assets/a07a88c7-1b10-46df-b33e-0577d014e1d0)
-![스크린샷 2024-11-12 오후 2 49 31](https://github.com/user-attachments/assets/f9c6676b-92c0-43a2-bd61-c40c02e0f58d)
-![스크린샷 2024-11-12 오후 2 50 27](https://github.com/user-attachments/assets/6469afaa-25d7-4e93-8089-11f10b8f5a0d)
-<img width="944" alt="스크린샷 2024-11-12 오후 4 28 32" src="https://github.com/user-attachments/assets/6ad73c3d-f06b-426f-8fa0-a9ecf95b07c3">
-
+### [🔍배포용링크](https://pokedex-eight-phi-77.vercel.app)
+![스크린샷 2024-11-12 오후 5 13 35](https://github.com/user-attachments/assets/1f27cc0b-ae55-4ffb-9d52-63a118698691)
+![스크린샷 2024-11-12 오후 5 13 58](https://github.com/user-attachments/assets/d8a7cb84-7877-4f3c-9d33-b734dbfdc277)
+![스크린샷 2024-11-12 오후 5 14 35](https://github.com/user-attachments/assets/c48c4982-83f1-4033-b808-4e2362aa24ab)
+![스크린샷 2024-11-12 오후 5 15 21](https://github.com/user-attachments/assets/33307abd-6b18-4ca0-97d9-432bfa36a5fd)
