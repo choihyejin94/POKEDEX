@@ -4,7 +4,7 @@ import styled from "styled-components";
 import logo from "../img/pokemon-logo.png";
 
 const HomeBox = styled.div`
-  background-color: #ffffae;
+  background-color: #ffa8a8;
   display: flex;
   flex-direction: column;
   justify-content: center;

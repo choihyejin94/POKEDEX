@@ -23,7 +23,7 @@ const AllBackground = styled.div`
 
 const DivForGap = styled.div`
   margin: 5px 0;
-  background-color: #ffffc0;
+  background-color: #ffa8a8;
   width: 100%;
   padding: 30px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);

@@ -4,7 +4,7 @@ import styled from "styled-components";
 import MOCK_DATA from "../data/mockData";
 
 const AllPoke = styled.div`
-  background-color: #ffffc0;
+  background-color: #ffa8a8;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,7 +29,7 @@ const ImgDetail = styled.img`
 `;
 
 const Numberstyle = styled.p`
-  font-size: 14px;
+  font-size: 12px;
   color: gray;
   text-align: center;
   margin: 20px;
@@ -42,8 +42,7 @@ const TextDetail = styled.div`
 `;
 
 const Namestyle = styled.h3`
-  color: red;
-  font-weight: 700;
+  font-weight: 800;
   font-size: 20px;
 `;
 
@@ -59,7 +58,6 @@ const ButtonDetail = styled.button`
   transition: background-color 0.3s ease;
 
   &:hover {
-    background-color: #357ab8; /* 호버 시 색상 변경 */
     transform: scale(1.05);
   }
 `;
