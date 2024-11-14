@@ -20,7 +20,7 @@ const OnePokeStyle = styled.form`
 `;
 
 const ImgPokeStyle = styled.img`
-  width: 100%;
+  width: 140px;
   height: auto;
   background-color: white;
   border: 1px solid #b5b5b5;

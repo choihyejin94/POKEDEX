@@ -14,7 +14,6 @@ const HomeBox = styled.div`
 `;
 
 const StartPokemon = styled.button`
-  font-family: "Bebas-Neue";
   font-weight: 800;
   background-color: #ff3636;
   color: white;

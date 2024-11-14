@@ -7,7 +7,6 @@ import { PokeProvider } from "../context/PokeContext";
 import MOCK_DATA from "../data/mockData";
 
 const AllBackground = styled.div`
-  font-family: "Bebas-Neue";
   font-weight: 500;
   background-color: #ffffff;
   display: flex;

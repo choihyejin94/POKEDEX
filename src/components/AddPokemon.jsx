@@ -22,7 +22,7 @@ const OneCardStyle = styled.div`
 `;
 
 const ImgStyle = styled.img`
-  width: 100%;
+  width: 120px;
   background-color: white;
   border: 1px solid #b5b5b5;
   border-radius: 3px;
