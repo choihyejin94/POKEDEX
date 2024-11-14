@@ -11,7 +11,7 @@
 <p>⚙️개발 가이드</p>
 <li>Vite 이용하여 리액트 프로젝트 셋업</li>
 <li>스타일링은 styled-component 방식만 사용</li>
-<li>props-drilling, context 브랜치 이용</li>
+<li>props-drilling, context 브랜치 이용// 못함..</li>
 <li>Vercel 이용하여 배포</li>
 
 ---
